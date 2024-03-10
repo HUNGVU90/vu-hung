@@ -1,5 +1,5 @@
 {
-  "name": "tong-huukhoa",
+  "name": "vu-hung",
   "version": "1.0.0",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
@@ -9,19 +9,19 @@
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
-    "sum-huukhoa": "^1.0.0"
+    "sum-vuhung": "^1.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/huukhoa1412/tong-huukhoa"
+    "url": "https://github.com/HUNGVU90/vu-hung"
   },
-  "homepage": "https://twitter.com/lehuukhoa1308",
+  "homepage": "https://twitter.com/vuvanhungxd9",
   "keywords": [
     "sum",
     "add",
     "tong",
     "cong"
   ],
-  "author": "huukhoa",
+  "author": "vuhung",
   "license": "MIT"
 }
