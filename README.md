@@ -1,5 +1,5 @@
-# tong-huukhoa
-#Khoa
+# vu-hung
+#Hung
 
 Một thư viện giúp bạn tính tổng của 2 số bất kỳ
 
